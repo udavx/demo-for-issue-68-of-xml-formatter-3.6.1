@@ -1,9 +1,12 @@
 {
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
-    "typescript": "^5.3.3",
     "xml-formatter": "^3.6.1"
   },
   "devDependencies": {
-    "@types/node": "^20.11.5"
+    "@types/node": "^20.11.5",
+    "typescript": "^5.3.3"
   }
 }
